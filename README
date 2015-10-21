@@ -1,7 +1,7 @@
 dice_histogram
 
 How to build:
-On *Nix: gcc dice.cpp -o dice
+On *Nix: g++ dice.cpp -o dice
 
 On Windows:
 1. Drag your mouse 10 miles back and forth across your desktop or start menu- fire up VisualStudio, and start a new blank project.
