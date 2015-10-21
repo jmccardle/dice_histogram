@@ -18,7 +18,7 @@ int rand_int(int min, int max)
     {
         int temp = max;
         max = min;
-        min = max;
+        min = temp;
     }
     int span = max - min + 1;
     //cout << min << " " << max << " " << span << endl;
